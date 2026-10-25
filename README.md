@@ -1,5 +1,16 @@
 # Image Classification with EfficientNet Features and Ensembles
 
+## 中文概览
+
+**项目定位：机器学习 / 图像分类 / 迁移特征与模型集成。** 在动物类别和细粒度鸟类识别任务中，比较手工特征与预训练 EfficientNet 特征，并评估 SVM、逻辑回归和加权投票方案。
+
+- **个人贡献**：负责模型调试与性能优化，并承担报告的主要撰写工作；完整项目为团队成果，其他模块不表述为本人独立开发。
+- **技术栈**：Python、PyTorch/torchvision、scikit-learn、EfficientNet-B4/B2、SVM、ensemble、误差分析。
+- **结果口径**：任务 1 的 EfficientNet-B4 + RBF SVM 五折 CV 均值为 **92.59%**；任务 2 的加权 ensemble 在误差分析留出集上为 **90.5%**。两者不是同一测试口径，不能混称独立测试准确率。
+- **实现范围**：EfficientNet 用作冻结特征提取器，不表述为从零训练或端到端微调；留出集存在模型选择依赖，完整训练本轮未重跑。整理版已修复图片读取与汇总表口径问题。
+
+## English documentation
+
 Compare handcrafted image features with pretrained **EfficientNet-B4/B2 embeddings**, classical classifiers and weighted soft voting on animal and fine-grained bird classification tasks.
 
 ## My contribution
