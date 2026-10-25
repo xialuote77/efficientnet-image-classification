@@ -1,0 +1,13 @@
+{
+  ".gitignore": "7e3284bcb2812ef9a8dc88066a204316e36aaf118383606d605ba3ea734987e1",
+  "README.md": "befab34249fd28a87da45de274881046275be267b5445403af5cec7e6f3cc058",
+  "requirements.txt": "fddf70ac292c813cc331d1666895d0dc6864d08044bac34b1bfe12089d8bd671",
+  "assets/model_comparison.png": "50866774e14b4e7c30891f587b9a7ea8fe84c00805fb5fae2ce1e8c76e7bf334",
+  "assets/T1_Confusion_Matrix.png": "119ee176cba09b31328b77ce0797473901032cb4cd75aceeacd9f66076627545",
+  "assets/T2_Confusion_Matrix.png": "3007400829de138a71ff3317b4632f0cffdb852abb171da47db7917daa80523e",
+  "assets/task2_effnet_confusion_matrix.png": "76d4c54cd11de47812c49d380fc3011ad48d95aabe4a9c26de70cb3e651b644f",
+  "docs/CONTRIBUTIONS.md": "9bc80f0b86acc63af5e93c91146cde9ade389108d8c7d8c12dab85a5e7a0668d",
+  "docs/REVIEW.md": "4164be0f9c13db6dab62d25086a7de08e38810f082c5f31ea3cbc659047a5901",
+  "notebooks/image_classification.ipynb": "f14c7472ff3ddb99c5d6371d05359a12e12954989c3445746f62c09a76a8d42c",
+  "reports/image-classification-report.pdf": "036e3335a38cb86037593efe2e5fd160feca54eaa3cb5c32ed8034d49293e387"
+}
