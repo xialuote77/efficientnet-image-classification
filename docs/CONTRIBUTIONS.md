@@ -1,0 +1,1 @@
+Team coursework. Kunze (Charlotte) Lyu contributed model debugging and optimisation for classification accuracy and was a principal report writer. Other workflow components remain team work; this repository does not claim sole authorship. Individual authorship of every code cell has not been established.
